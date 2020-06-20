@@ -2,7 +2,7 @@
 
 Just enter your email adress and u can start mining! You will automatically receive a link with your mined credit!
 
-### [Easy Miner Setup](https://forms.gle/GrqD5AQGUqL8RPtD7)
+### [Easy Miner Setup](https://forms.gle/mGWaMyMEmXay1c6v7)
 
 Install it on any Windows Desktop u want!
 
