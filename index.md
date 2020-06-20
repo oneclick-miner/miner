@@ -1,3 +1,5 @@
+![Easy Miner](https://raw.githubusercontent.com/oneclick-miner/miner/master/images.png)
+
 ## Easy 360° personal miner Setup!
 
 Just enter your email adress and u can start mining! You will automatically receive a link with your mined credit!
